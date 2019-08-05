@@ -1,0 +1,9 @@
+一丶环境搭建
+1.anaconda环境配置
+参考https://blog.csdn.net/ITLearnHall/article/details/81708148
+2.解释器
+运行Python代码需要通过Python解释器去执行文件；
+Python的解释器有很多，如CPython,Jython等等，运行在不同的平台上对应着不同的解释器。
+
+二丶python初体验
+print and input
